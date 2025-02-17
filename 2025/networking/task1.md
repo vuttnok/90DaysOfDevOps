@@ -1,4 +1,4 @@
-**#Understand OSI & TCP/IP Models**
+**# Understand OSI & TCP/IP Models**
 
 The OSI (Open Systems Interconnection) and TCP/IP models are frameworks that describe how computer systems communicate over a network. The OSI Model has 7 layers, each with specific responsibilities
 
