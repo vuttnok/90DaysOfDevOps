@@ -1,16 +1,10 @@
-Understand OSI & TCP/IP Models
-
-Learn about the OSI and TCP/IP models, including their layers and purposes.
-
-Understanding the OSI & TCP/IP Models
+**Understand OSI & TCP/IP Models**
 
 The OSI (Open Systems Interconnection) and TCP/IP models are frameworks that describe how computer systems communicate over a network. The OSI Model has 7 layers, each with specific responsibilities
 
-The OSI (Open Systems Interconnection) Model is a set of rules that explains how different computer systems communicate over a network.
-The OSI Model consists of 7 layers and each layer has specific functions and
-responsibilities.
+**The OSI (Open Systems Interconnection)** Model is a set of rules that explains how different computer systems communicate over a network.It consists of 7 layers and each layer has specific functions and responsibilities.
 
-1. Physical Layer (Layer 1)
+**1. Physical Layer (Layer 1)**
 Purpose: Transmits raw data bits over physical media like cables or wireless signals.
 Example: When you connect to the internet using an Ethernet cable, the Physical Layer sends electrical signals through the cable. In wireless networks, Wi-Fi signals carry data over the air.
 Protocols: Ethernet, Wi-Fi, Bluetooth, Fiber Optic.
