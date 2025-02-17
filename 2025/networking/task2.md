@@ -21,9 +21,9 @@ In DevOps, understanding the protocols and their associated ports is crucial for
 
 
 # **Why These Protocols Matter in DevOps**
-### 1.Automation: Protocols like SSH and SFTP are key for automating deployments, managing servers, and handling configuration.  
-### Security: HTTPS and SSH secure communication, ensuring that data transfer remains encrypted.  
-### Monitoring: SMTP sends automated alerts to notify teams of system status, errors, or deployment results.  
-### Consistency: DNS and NTP ensure consistency in network communication and time synchronization across systems, essential for debugging and monitoring.    
+ **Automation**: Protocols like SSH and SFTP are key for automating deployments, managing servers, and handling configuration.  
+ **Security**: HTTPS and SSH secure communication, ensuring that data transfer remains encrypted.  
+ **Monitoring**: SMTP sends automated alerts to notify teams of system status, errors, or deployment results.  
+ **Consistency**: DNS and NTP ensure consistency in network communication and time synchronization across systems, essential for debugging and monitoring.    
 
 In DevOps, these protocols and ports enable smooth automation, secure communication, and efficient infrastructure management, ensuring rapid and reliable software delivery.
